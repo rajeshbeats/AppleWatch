@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0630"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1887A2CF1B032C3400ADF867"
+               BuildableName = "AppleWatch2ParentApp WatchKit App.app"
+               BlueprintName = "AppleWatch2ParentApp WatchKit App"
+               ReferencedContainer = "container:AppleWatch2ParentApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1887A29C1B032C1E00ADF867"
+               BuildableName = "AppleWatch2ParentApp.app"
+               BlueprintName = "AppleWatch2ParentApp"
+               ReferencedContainer = "container:AppleWatch2ParentApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1887A2C51B032C3400ADF867"
+               BuildableName = "AppleWatch2ParentApp WatchKit Extension.appex"
+               BlueprintName = "AppleWatch2ParentApp WatchKit Extension"
+               ReferencedContainer = "container:AppleWatch2ParentApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1887A2CF1B032C3400ADF867"
+            BuildableName = "AppleWatch2ParentApp WatchKit App.app"
+            BlueprintName = "AppleWatch2ParentApp WatchKit App"
+            ReferencedContainer = "container:AppleWatch2ParentApp.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/AppleWatch2ParentApp">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1887A2CF1B032C3400ADF867"
+            BuildableName = "AppleWatch2ParentApp WatchKit App.app"
+            BlueprintName = "AppleWatch2ParentApp WatchKit App"
+            ReferencedContainer = "container:AppleWatch2ParentApp.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1887A2CF1B032C3400ADF867"
+            BuildableName = "AppleWatch2ParentApp WatchKit App.app"
+            BlueprintName = "AppleWatch2ParentApp WatchKit App"
+            ReferencedContainer = "container:AppleWatch2ParentApp.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/AppleWatch2ParentApp">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1887A2CF1B032C3400ADF867"
+            BuildableName = "AppleWatch2ParentApp WatchKit App.app"
+            BlueprintName = "AppleWatch2ParentApp WatchKit App"
+            ReferencedContainer = "container:AppleWatch2ParentApp.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1887A2CF1B032C3400ADF867"
+            BuildableName = "AppleWatch2ParentApp WatchKit App.app"
+            BlueprintName = "AppleWatch2ParentApp WatchKit App"
+            ReferencedContainer = "container:AppleWatch2ParentApp.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
